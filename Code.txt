@@ -1,3 +1,5 @@
+// Weinberg was here - great color choices in your version.
+
 
 CANVAS_WIDTH = 500
 CANVAS_HEIGHT = 250
